@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f55d4030-8450-4ce5-8bae-069f0cf28fb2/microsoft.web/sites/subscriptions/f55d4030-8450-4ce5-8bae-069f0cf28fb2/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/WebAppTestHS",
+    "appService.deploySubpath": "DotNetCoreSqlDb/bin/Release/net6.0/publish"
+}
